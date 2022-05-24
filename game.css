@@ -110,3 +110,15 @@ neighboring elements.  Necessary to avoid giving ids to the boundary divs
 	height: 150px;
 	width: 98px;
 }
+.time{
+	display: flex;
+    justify-content: space-between;
+	width: 300px;
+}
+#time_div{
+	margin: 0, 50px;
+}
+.time_aligner{
+	display: flex;
+    justify-content: center;
+}
